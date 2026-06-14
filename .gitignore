@@ -1,6 +1,7 @@
-echo ".env
+.env
 planner.db
 __pycache__/
 *.pyc
 venv/
-tasks.json" > .gitignore
+tasks.json
+*.db
