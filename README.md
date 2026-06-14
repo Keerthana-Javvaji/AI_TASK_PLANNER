@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 AI Smart Day Planner
 
 ## 📌 Project Overview
@@ -177,3 +178,6 @@ Clicking **My Progress** opens a modal showing:
 **Javvaji Jyothi Keerthana**
 
 AI Smart Day Planner was developed as a personal productivity and AI-based task management project using Python, Streamlit, and Google Gemini API.
+=======
+# AI_TASK_PLANNER
+>>>>>>> 3efc559eb4b9ced41b4ff1bee09b40ca0bc582b5
