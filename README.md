@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📝 AI Smart Day Planner
 
 ## 📌 Project Overview
@@ -6,6 +5,11 @@
 AI Smart Day Planner is a multi-user personal productivity application built using **Python** and **Streamlit**. It helps users organize daily tasks, track progress, and generate an AI-powered work/study plan based on pending tasks and deadlines.
 
 The application supports **secure user authentication**, **SQLite database storage**, and **automatic email reminders** for tasks due on the current day.
+
+---
+## 🌐 Live Demo
+
+👉 **[Click here to try the app](https://aitaskplanner-xipqjpg9jhnujyi8f2aydh.streamlit.app/)**
 
 ---
 
@@ -68,10 +72,9 @@ AI_TASK_PLANNER/
 Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Keerthana-Javvaji/AI_TASK_PLANNER.git
 cd AI_TASK_PLANNER
 ```
-
 Install dependencies:
 
 ```bash
@@ -165,11 +168,11 @@ Clicking **My Progress** opens a modal showing:
 
 ## 🔮 Future Enhancements
 
-- Cloud deployment with SQLite
+- Migrate to PostgreSQL/Supabase for persistent cloud storage
 - Weekly productivity reports
 - Desktop push notifications
-- Mobile responsive UI
 - Task categories and tags
+- Mobile app version
 
 ---
 
@@ -178,6 +181,4 @@ Clicking **My Progress** opens a modal showing:
 **Javvaji Jyothi Keerthana**
 
 AI Smart Day Planner was developed as a personal productivity and AI-based task management project using Python, Streamlit, and Google Gemini API.
-=======
-# AI_TASK_PLANNER
->>>>>>> 3efc559eb4b9ced41b4ff1bee09b40ca0bc582b5
+
